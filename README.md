@@ -1,7 +1,7 @@
 # Virtual-Tourist
 
 
-The app downloads and stores images from Flickr. The app allows users to drop pins on a map, as if they were stops on a tour. Users will then be able to download pictures for the location and persist boththe pictures, and the association of the pictures with the pin coordinates. Users will also be able to move pins to download new pictures and remove pins if they do not need them anymore.
+The app downloads and stores images from Flickr. The app allows users to drop pins on a map, as if they were stops on a tour.  Users will then be able to download pictures for the location and persist both the actual pictures, and the location of the pictures. Users will also be able to move pins to download new pictures and remove pins if they do not need them anymore.
 
 <h2>Implementation</h2>
 
