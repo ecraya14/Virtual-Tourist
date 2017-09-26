@@ -2,7 +2,7 @@
 //  Virtual_TouristTests.swift
 //  Virtual TouristTests
 //
-//  Created by Yassin Raman on 07/09/2016.
+//  Created by ecraya14 on 07/09/2016.
 //  Copyright © 2016 AppFish. All rights reserved.
 //
 
